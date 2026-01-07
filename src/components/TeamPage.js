@@ -16,10 +16,10 @@ const TeamPage = () => {
   const teamMembers = [
     {
       id: 1,
-      name: 'Tiya Sharma & Bhavna Bairagi',
+      name: 'Sarang Rai',
       role: 'Founder & CEO',
       description: 'With over 15 years of experience in matchmaking, Sarah founded Perfect Match with a vision to create meaningful connections through technology and human touch.',
-      image:CEO,
+      image:Sarang,
       department: 'leadership'
     },
     {
