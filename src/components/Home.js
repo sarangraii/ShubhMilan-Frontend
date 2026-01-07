@@ -27,7 +27,7 @@ const Home = () => {
     },
     {
       id: 3,
-      name: "Yashi & Sarang",
+      name: "Priyashi & Prateek",
       message: "Thanks to this platform, we found love and happiness. Forever grateful!",
       date: "Married on June 2022",
       image: img3
