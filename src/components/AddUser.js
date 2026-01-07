@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import '../styles/AddUser.css';
 import axios from 'axios';
 
-const API_URL = 'https://shubhmilan-backend.onrender.com';
+const API_URL = 'https://shubhmilan-backend-wdtl.onrender.com';
 
 const AddUser = () => {
   const [formData, setFormData] = useState({

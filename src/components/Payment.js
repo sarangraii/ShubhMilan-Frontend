@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import { useNavigate } from "react-router-dom";
 import '../styles/Payment.css'; // Import the CSS file
 
-const API_URL = 'https://shubhmilan-backend.onrender.com';
+const API_URL = 'https://shubhmilan-backend-wdtl.onrender.com';
 const Payment = () => {
     const [amount, setAmount] = useState("");
     const navigate = useNavigate();

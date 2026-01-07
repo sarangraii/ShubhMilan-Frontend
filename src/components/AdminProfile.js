@@ -3,7 +3,7 @@ import { useNavigate } from "react-router-dom";
 import axios from "axios";
 import "../styles/AdminProfile.css";
 
-const API_URL = 'https://shubhmilan-backend.onrender.com';
+const API_URL = 'https://shubhmilan-backend-wdtl.onrender.com';
 
 const AdminProfile = () => {
   const navigate = useNavigate();

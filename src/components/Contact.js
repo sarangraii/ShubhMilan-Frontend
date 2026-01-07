@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import axios from 'axios';
 import '../styles/Contact.css'; // Import the CSS file
 
-const API_URL = 'https://shubhmilan-backend.onrender.com';
+const API_URL = 'https://shubhmilan-backend-wdtl.onrender.com';
 
 const Contact = () => {
   const [formData, setFormData] = useState({
